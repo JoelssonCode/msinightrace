@@ -1,0 +1,3 @@
+A text file to test some version handling
+
+Version 2 this is added
